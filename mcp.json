@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "worktual-crm": {
+      "url": "https://crm-mcp-server.worktual.com/mcp"
+    }
+  }
+}

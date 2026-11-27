@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.worktual-mcp/worktual-crm",
+  "title": "Worktual CRM",
+  "description": "Look up and update Worktual CRM contacts, companies, deals, quotes, and invoices.",
+  "repository": {
+    "url": "https://github.com/worktual-mcp/worktual-crm",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://crm-mcp-server.worktual.com/mcp"
+    }
+  ]
+}
